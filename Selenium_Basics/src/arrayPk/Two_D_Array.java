@@ -12,7 +12,8 @@ public class Two_D_Array {
 		System.out.println("the length of array is " + arraylength);
 		
 		System.out.println("the value of school is " +school[1][0]);
-				
+				//1
+		//2
 		
 
 	}

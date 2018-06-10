@@ -12,5 +12,6 @@ public class Array1dDemo {
 		System.out.println("student id is " +student_id[1]);
 			}
 	//SAMPLE COMMENT
+	//2
 
 }

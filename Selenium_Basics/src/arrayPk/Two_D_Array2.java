@@ -10,7 +10,7 @@ public class Two_D_Array2 {
 		school[1][1]=76;
 		int len = school.length;
 		System.out.println("the length of array is " + len);
-		
+		//5
 		System.out.println("the value of school is " +school[1][0]);
 			
 		for(int i=0;i<2;i++) {

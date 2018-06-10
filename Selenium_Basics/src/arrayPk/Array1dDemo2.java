@@ -9,7 +9,7 @@ public class Array1dDemo2 {
 		student_id[2]=20;
 		student_id[3]=35;
 		student_id[4]=58;
-		
+		//3
 		int size_of_array = student_id.length;
 		System.out.println("The length of array " +size_of_array);
 		
