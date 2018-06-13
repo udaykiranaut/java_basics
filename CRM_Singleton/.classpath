@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="E:/01 for testing/selinium mukesh/poi-bin-3.17--20170915/poi-3.17/all jars poi/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="E:/01 for testing/selinium mukesh/poi-bin-3.17--20170915/poi-3.17/all jars poi/commons-collections4-4.1.jar"/>
+	<classpathentry kind="lib" path="E:/01 for testing/selinium mukesh/poi-bin-3.17--20170915/poi-3.17/all jars poi/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="E:/01 for testing/selinium mukesh/poi-bin-3.17--20170915/poi-3.17/all jars poi/curvesapi-1.04.jar"/>
+	<classpathentry kind="lib" path="E:/01 for testing/selinium mukesh/poi-bin-3.17--20170915/poi-3.17/all jars poi/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="E:/01 for testing/selinium mukesh/poi-bin-3.17--20170915/poi-3.17/all jars poi/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="E:/01 for testing/selinium mukesh/poi-bin-3.17--20170915/poi-3.17/all jars poi/poi-3.17.jar"/>
+	<classpathentry kind="lib" path="E:/01 for testing/selinium mukesh/poi-bin-3.17--20170915/poi-3.17/all jars poi/poi-examples-3.17.jar"/>
+	<classpathentry kind="lib" path="E:/01 for testing/selinium mukesh/poi-bin-3.17--20170915/poi-3.17/all jars poi/poi-excelant-3.17.jar"/>
+	<classpathentry kind="lib" path="E:/01 for testing/selinium mukesh/poi-bin-3.17--20170915/poi-3.17/all jars poi/poi-ooxml-3.17.jar"/>
+	<classpathentry kind="lib" path="E:/01 for testing/selinium mukesh/poi-bin-3.17--20170915/poi-3.17/all jars poi/poi-ooxml-schemas-3.17.jar"/>
+	<classpathentry kind="lib" path="E:/01 for testing/selinium mukesh/poi-bin-3.17--20170915/poi-3.17/all jars poi/poi-scratchpad-3.17.jar"/>
+	<classpathentry kind="lib" path="E:/01 for testing/selinium mukesh/poi-bin-3.17--20170915/poi-3.17/all jars poi/xmlbeans-2.6.0.jar"/>
+	<classpathentry kind="lib" path="E:/01 for testing/selinium mukesh/selenium-server-standalone-3.12.0.jar" sourcepath="E:/01 for testing/selinium mukesh/selenium-server-standalone-3.12.0.jar"/>
+	<classpathentry kind="lib" path="E:/01 for testing/selinium mukesh/log4j/log4j.jar"/>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
